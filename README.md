@@ -1,7 +1,8 @@
 # Legal Studies 88 
 
 University of California, Berkeley
-Berkeley Division of Science Department Content 
+
+Berkeley Division of Science Department 
 
 ## Table of Contents 
 
