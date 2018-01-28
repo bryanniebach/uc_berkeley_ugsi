@@ -16,7 +16,5 @@ IV.  Appending Data From Different Data Sets
 
 V.   Relation to Law
 
-VI.  Lab Project
-
 ## Acknowledgements 
 © 2018 Bryannie Bach All Rights Reserved 
